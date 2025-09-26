@@ -487,7 +487,8 @@ This project is created for educational purposes. Feel free to use and modify fo
 
 ---
 
-**Author**: [Your Name]  
+**Author**: Stanley Richard  
 **Course**: Java Programming  
-**Date**: September 2025  
+**Date**: 26 September 2025  
+
 **Version**: 1.0
