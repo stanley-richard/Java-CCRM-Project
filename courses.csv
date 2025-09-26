@@ -1,0 +1,16 @@
+Code,Title,Credits,Department,Semester
+CS101,Introduction to Programming,3,Computer Science,FALL
+CS102,Programming Fundamentals,3,Computer Science,SPRING
+CS201,Data Structures,4,Computer Science,SPRING
+CS202,Algorithms,4,Computer Science,FALL
+CS301,Database Systems,3,Computer Science,FALL
+CS302,Software Engineering,3,Computer Science,SPRING
+IT201,Web Development,3,Information Technology,SPRING
+IT301,Network Security,3,Information Technology,FALL
+IT401,Cloud Computing,4,Information Technology,SPRING
+EE101,Circuit Analysis,3,Electrical Engineering,FALL
+EE201,Digital Logic,3,Electrical Engineering,SPRING
+EE301,Microprocessors,4,Electrical Engineering,FALL
+ME101,Engineering Mechanics,3,Mechanical Engineering,FALL
+ME201,Thermodynamics,4,Mechanical Engineering,SPRING
+ME301,Machine Design,3,Mechanical Engineering,FALL
